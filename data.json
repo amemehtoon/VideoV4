@@ -10,13 +10,13 @@
 "adstime":"1",
 "apyar":[
 {
-"title":"သိုင်းကျင့်ကျမယ်",
-"image":"https://i.imgur.com/IYQWy9S.jpeg",
+"title":"စပွန်ဆာ ချိတ်ဆက်ရေး ",
+"image":"https://i.ibb.co/PWqwVPf/IMG-20241221-075527-721.jpg",
 "link":"https://raw.githubusercontent.com/ZinDown/new/main/Sponner.json",
 "type":"x"
  },  
  {
-"title":" Tiktok ပေါ်မှာ အမည်ကြီးနဲ့ အောကားများ  ",
+"title":" Tiktok Cele အောကားများ  ",
 "image":"https://maynoe.com/wp-content/uploads/2023/09/1695268138-picsay.jpg",
 "link":"https://raw.githubusercontent.com/ZinDown/new/main/allkarweblink.json",
 "type":"x"
@@ -31,6 +31,18 @@
   "title":"ပလီမီရမ် အောကားများ  ၂ ",
   "image":"https://maynoe.com/wp-content/uploads/2022/08/1660194235-picsay-1.jpg", 
   "link":"https://raw.githubusercontent.com/ZinDown/new/refs/heads/main/maynoe_2.json", 
+  "type":"x"
+}, 
+ { 
+  "title":"Local ရှယ်လေးတွေ  ၁ ",
+  "image":"https://i.ibb.co/F0LyDS4/IMG-20241225-145213-379.jpg", 
+  "link":"https://raw.githubusercontent.com/ZinDown/new/refs/heads/main/local_1.json", 
+  "type":"x"
+}, 
+ { 
+  "title":"Local ရှယ်လေးတွေ  ၂ ",
+  "image":"https://i.ibb.co/nzFdM0Q/IMG-20241225-145159-064.jpg", 
+  "link":"https://raw.githubusercontent.com/ZinDown/new/refs/heads/main/local_2.json", 
   "type":"x"
 }, 
  { 
